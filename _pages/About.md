@@ -29,6 +29,7 @@ StrymTV is a Powerful M3U playlist player that allows you to watch live tv at an
 
 <br>
  
+ 
  ## Disclaimer
  
  - StrymTV does not supply or include any media or content except some sample dummy streams :

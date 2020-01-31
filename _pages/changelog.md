@@ -28,7 +28,7 @@ StrymTV is a Powerful M3U playlist player that allows you to watch live tv at an
 #### More Features
 
 - Playlist Manager.
- > - Best way to manage your playlists on iOS platform.
+ > - Best way to manage your M3U playlists on iOS platform.
  >
  > - View local playlist content.
  

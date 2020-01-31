@@ -27,9 +27,9 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-[Firebase Analytics](https://firebase.google.com/policies/analytics)
-[Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+\[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+\[Firebase Analytics](https://firebase.google.com/policies/analytics)
+\[Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 <br>
 

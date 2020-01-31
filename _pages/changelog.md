@@ -5,9 +5,29 @@ include_in_header: false
 ---
 
 # Changelog
-________
+
 <br>
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+StrymTV is a Powerful M3U playlist player that allows you to watch live tv at anytime and anywhere on your iOS device.
+
+#### Features
+- Unlimited Playlists.
+- Mark any channel as favorite.
+- Create and store your own local M3U playlists.
+- Buil-in Powerful Player (Supports most of the streams codecs).
+- Built-in Mini Player (Navigate through the app while watching or listening to your favorite streams).
+- Play your own streams.
+- Airplay Support
+- Fast and Inteligent M3U Parser.
+
+#### More Features
+
+- Playlist Manager.
+ - best way to manage your playlists on iOS platform.
+ - view local playlist content.
+ -
+ 
+ ## Disclaimer
+ - StrymTV does not contain any TV chhannel, please contact your IPTV provider for TV.

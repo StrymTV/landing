@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : list-alt
 
   - title                                 : Built-in Powerful Media Player
-    description                           : Multiple Video Format Suppported: http, hsl, m3u8, mms, rtsp, ts, mpegts and much more.
+    description                           : Multiple Video Format Suppported:http, hsl, m3u8, mms, rtsp, ts, mpegts and much more.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Auto Update Playlists

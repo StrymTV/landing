@@ -24,7 +24,7 @@ your_link                                 : https://twitter.com/SebasBarajasc
 your_city                                 :                                 
 email_address                             : strymtvapp@gmail.com
 facebook_username                         :                                           
-instagram_username                        : Strymtvapp
+instagram_username                        : strymtvapp
 twitter_username                          : Strymtvapp
 github_username                           :
 youtube_username                          :
@@ -34,9 +34,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : Unlimited Playlists
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : list-alt
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.

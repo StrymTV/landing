@@ -46,7 +46,7 @@ features                                  :
     description                           : Auto update remote playlists.
     fontawesome_icon_name                 : sync
        
-  - title                                 : Feature List
+  - title                                 : Favorites playlist
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : star
 

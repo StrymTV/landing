@@ -49,6 +49,10 @@ features                                  :
   - title                                 : Favorites List
     description                           : Add any channel or stream to favorites.
     fontawesome_icon_name                 : star
+     
+  - title                                 : Continuous Updates
+    description                           : We are continuously working to improve the app, if you have some idea or feedback send us an email at strymtvteam@gmail.com and we will get back to you.
+    fontawesome_icon_name                 : gift
 
   - title                                 : #iPhone Device Preview
     description                           : #Preview your app in the context of an iPhone device. Five different device colors included.

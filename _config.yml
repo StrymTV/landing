@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : list-alt
 
   - title                                 : Built-in Powerful Media Player
-    description                           : Multiple Video Format Suppported - HTTP , HSL , M3U8 , MMS , RTSP , TS , MPEGTS and more.
+    description                           : Multiple Video Format Suppported: http, hsl, m3u8, mms, rtsp, ts, mpegts and much more.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Auto Update Playlists
@@ -51,10 +51,10 @@ features                                  :
     fontawesome_icon_name                 : star
     
   - title                                 : URL Scheme
-    description                           : Link directly to play any video or audio file by opening the next link in a web browser or linking service. strymtv://player/<VIDEO LINK>
+    description                           : Link directly to play any video or audio file by opening the next link in a web browser or linking service. strymtv://player/VIDEO LINK
     fontawesome_icon_name                 : link
      
-  - title                                 : Continuous Updates
+  - title                                 : Continuous App Updates
     description                           : We are continuously working to improve the app, if you have some idea or feedback send us an email at strymtvteam@gmail.com and we will get back to you.
     fontawesome_icon_name                 : gift
 

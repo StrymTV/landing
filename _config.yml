@@ -38,9 +38,13 @@ features                                  :
     description                           : Import unlimited remote and local M3U playlists to your iOS device.
     fontawesome_icon_name                 : list-alt
 
-  - title                                 : Built-in Powerful Media Player
-    description                           : Multiple Video Format Suppported - http, hsl, m3u8, mms, rtsp, ts, mpegts and much more.
+  - title                                 : Powerful Media Player
+    description                           : Built-in powerful media player with multiple features.
     fontawesome_icon_name                 : play-circle
+      
+  - title                                 : Multiple Video Format Suppported
+    description                           : http, hsl, m3u8, mms, rtsp, ts, mpegts and much more.
+    fontawesome_icon_name                 : file-video
 
   - title                                 : Auto Update Playlists
     description                           : Auto update remote playlists.

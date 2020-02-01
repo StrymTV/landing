@@ -36,8 +36,8 @@ features                                  :
 
   - title                                 : Unlimited Playlists
     description                           : Import unlimited remote and local M3U playlists to your iOS device.
-    fontawesome_icon_name                 : list-alt
-
+    fontawesome_icon_name                 : infinity #list-alt
+    
   - title                                 : Powerful Media Player
     description                           : Built-in powerful media player with multiple features.
     fontawesome_icon_name                 : play-circle
@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : file-video
 
   - title                                 : Auto Update Playlists
-    description                           : Auto update remote playlists.
+    description                           : Update remote playlists automatically.
     fontawesome_icon_name                 : sync
     
   - title                                 : Playlist Manager
@@ -61,11 +61,15 @@ features                                  :
   - title                                 : URL Scheme
     description                           : Play any stream by opening strymtv://player/VIDEO LINK in a web browser or linking service.
     fontawesome_icon_name                 : link
-     
+ 
+  - title                                 : History
+    description                           : Play, edit and copy any of your recently played streams.
+    fontawesome_icon_name                 : history
+    
   - title                                 : Constant app Updates
     description                           : Keeping app up to date by fixing bugs and adding new features.
     fontawesome_icon_name                 : gift
-
+    
   - title                                 : #Easy to Tweak
     description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : #adjust

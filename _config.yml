@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
        
   - title                                 : Favorites List
-    description                           : Add any channel or stream to favorites.
+    description                           : Add any channel or stream to your favorites list.
     fontawesome_icon_name                 : star
     
   - title                                 : URL Scheme

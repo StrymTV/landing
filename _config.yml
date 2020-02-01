@@ -45,6 +45,10 @@ features                                  :
   - title                                 : Auto Update Playlists
     description                           : Auto update remote playlists.
     fontawesome_icon_name                 : sync
+    
+  - title                                 : Playlist Manager
+    description                           : Best way to manage your M3U playlists on iOS platform.
+    fontawesome_icon_name                 : mobile
        
   - title                                 : Favorites List
     description                           : Add any channel or stream to favorites.
@@ -57,10 +61,6 @@ features                                  :
   - title                                 : Constant app Updates
     description                           : Keeping app up to date by fixing bugs and adding new features.
     fontawesome_icon_name                 : gift
-
-  - title                                 : #iPhone Device Preview
-    description                           : #Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : #mobile
 
   - title                                 : #Easy to Tweak
     description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.

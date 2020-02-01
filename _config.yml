@@ -51,19 +51,19 @@ features                                  :
     fontawesome_icon_name                 : sync
     
   - title                                 : Playlist Manager
-    description                           : Best way to manage your M3U playlists on iOS platform.
+    description                           : Manage your M3U playlists with ease on your iOS device.
     fontawesome_icon_name                 : mobile
-       
+     
   - title                                 : Favorites List
     description                           : Add any channel or stream to your favorites list.
     fontawesome_icon_name                 : star
     
-  - title                                 : URL Scheme
+  - title                                 : URL Schemes
     description                           : Play any stream by opening strymtv://player/VIDEO LINK in a web browser or linking service.
     fontawesome_icon_name                 : link
  
   - title                                 : History
-    description                           : Play, edit and copy any of your recently played streams.
+    description                           : Play, copy or edit any of your recently played streams.
     fontawesome_icon_name                 : history
     
   - title                                 : Constant App Updates

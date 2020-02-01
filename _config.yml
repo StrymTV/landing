@@ -51,11 +51,11 @@ features                                  :
     fontawesome_icon_name                 : star
     
   - title                                 : URL Scheme
-    description                           : Link directly to play any video or audio file by opening the next link in a web browser or linking service. strymtv://player/VIDEO LINK
+    description                           : Play any video or audio file by opening the next link in a web browser or linking service. strymtv://player/VIDEO LINK
     fontawesome_icon_name                 : link
      
-  - title                                 : Continuous App Updates
-    description                           : We are continuously working to improve the app, if you have some idea or feedback send us an email at strymtvteam@gmail.com and we will get back to you.
+  - title                                 : Constant app Updates
+    description                           : Keeping app up to date by fixing bugs and adding new features.
     fontawesome_icon_name                 : gift
 
   - title                                 : #iPhone Device Preview

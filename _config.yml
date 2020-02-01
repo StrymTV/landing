@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : star
     
   - title                                 : URL Scheme
-    description                           : Play any video or audio file by opening the next link in a web browser or linking service. strymtv://player/VIDEO LINK
+    description                           : Play any stream by opening strymtv://player/VIDEO LINK in a web browser or linking service.
     fontawesome_icon_name                 : link
      
   - title                                 : Constant app Updates

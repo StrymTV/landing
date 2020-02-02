@@ -39,9 +39,7 @@ THE SOFTWARE.
  - [MIT License](https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/LICENSE.md)
  
   ~~~~
-# License
-
-## MIT License
+The MIT License (MIT)
 
 Copyright (c) 2012 Hesham Abd-Elmegid (http://www.hesh.am)
 
@@ -68,6 +66,8 @@ THE SOFTWARE.
  - [MIT License](https://raw.githubusercontent.com/SDWebImage/SDWebImage/master/LICENSE)
 
  ~~~~
+The MIT License (MIT)
+ 
 Copyright (c) 2009-2018 Olivier Poitrey rs@dailymotion.com
  
 Permission is hereby granted, free of charge, to any person obtaining a copy

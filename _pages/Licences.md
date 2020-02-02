@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Libraries
+title: Licences
 include_in_header: false
 ---
 

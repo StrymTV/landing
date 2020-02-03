@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-include_in_header: true
+include_in_header: false
 ---
 
 # **ABOUT**

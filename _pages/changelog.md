@@ -68,6 +68,6 @@ StrymTV is a Powerful M3U playlist player that allows you to watch live tv at an
  - I do not endorse the streaming of copyright protected material without permission of the copyright holder.
  
  - Read more about StrymTV terms and conditions here : 
-   > - [Privacy Policy](https://web.archive.org/web/20140209153956/http://www.sintel.org/sharing)
-   >
-   > - [Terms & Coditions](https://web.archive.org/web/20140209153956/http://www.sintel.org/sharing)
+   > - [Privacy Policy](https://strymtv.com/privacy-policy/)
+   > 
+   > - [Terms & Coditions](https://strymtv.com/conditions/)

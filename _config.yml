@@ -20,8 +20,8 @@ enable_smart_app_banner                   : false #true #let's disable it for no
 
 
 # Information About Yourself
-your_name                                 : #StrymTV Team                               
-your_link                                 : #https://twitter.com/iPlayTVApp
+your_name                                 : StrymTV Team                               
+your_link                                 : https://twitter.com/iPlayTVApp
 your_city                                 :                                 
 email_address                             : strymtvapp@gmail.com
 facebook_username                         :                                           

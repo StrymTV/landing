@@ -21,7 +21,7 @@ StrymTV is a Powerful M3U playlist player that allows you to watch live tv at an
 
 > in the playlists tab select ➕ button located in navigation bar to open playlist manager view, then select ➕ button and select **Paste a M3U playlist**, paste or type a well formed M3U playlist and press the **Save** button in the navigation bar to save playlist.
 
-## How to add an item to favorites tab ?
+## How to add an item to favorites ?
 
 > - 1 an item from a playlist.
 Select an item and choose **Add To Favorites** from the context menu.

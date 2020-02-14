@@ -9,10 +9,6 @@ StrymTV is a Powerful M3U playlist player that allows you to watch live tv at an
 
 ##### HOW TO ADD STRYMTV M3U PLAYLIST
 
-#in the playlists tab select img:"AddSymbol" button located in navigation bar to open playlist manager view then select img:"AddPlaylistIcon" button and select "Import playlist from an URL" button, paste or type the URL of the playlist and press "Save" button to download playlist.
-
-**https://tinyurl.com/StrymTV**
-
-- Import unlimited remote and local M3U playlists to your iOS device.
+- In the playlists tab select :heavy_plus_sign: button located in navigation bar to open playlist manager view, then select :heavy_plus_sign: button and select **Import playlist from an URL** button, paste or type the link to the playlist **https://tinyurl.com/StrymTV** in the URL field and then press **Save** button to download playlist.
 
 ![Artboard](https://user-images.githubusercontent.com/60270730/74491014-baa5a680-4eca-11ea-8aaa-5230b6a9626b.png)

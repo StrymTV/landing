@@ -14,7 +14,7 @@ It is our policy to respond to any infringement notices and take appropriate act
 
 If you believe that your work has been copied and is accessible on StrymTV in a way that constitutes copyright infringement, please follow the instructions on how to contact us to report possible copyright infringement.
 
-**strymtv.com** doesn't host any content/broadcasts on it own server and just links to or embeds content and hls files uploaded to popular Online sites like Openload.co, Vimeo.com, Dailymotion.com, Youtube.com, twitch.tv, reddit.com, VShare, etc.
+**strymtv.com** doesn't host any content/broadcasts on its own server and just links to or embeds content and hls files uploaded to popular Online sites like Openload.co, Vimeo.com, Dailymotion.com, Youtube.com, twitch.tv, reddit.com, VShare, etc.
 
 All trademarks, broadcasts, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. **strymtv.com** is not responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site are located somewhere else on the web or video embedded are from other various sites included above!
 

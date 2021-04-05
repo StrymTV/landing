@@ -36,4 +36,4 @@ If you are a copyright owner, or are authorized to act on behalf of an owner of 
 
 5. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; Use your company email. No free mailboxes (Hotmail, Gmail, AOL, Yahoo, etc) or your DMCA notice will not be valid. You acknowledge that if you fail to comply with all of the requirements of this section, your DMCA notice may not be valid. Scan and send the written infringement notice to the following email address:
 
-dmca@strymtv.com (Please allow 24-48 hours for response)
+[dmca@strymtv.com](mailto:dmca@strymtv.com). (Please allow 24-48 hours for response).
